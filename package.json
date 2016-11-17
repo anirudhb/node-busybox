@@ -1,0 +1,18 @@
+{
+  "name": "node-busybox",
+  "version": "0.0.1",
+  "description": "Busybox written in Javascript. ** Does NOT support all features. Only supports platform-specific features. **",
+  "main": "busybox.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anirudhb/node-busybox.git"
+  },
+  "author": "Anirudh Balaji",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/anirudhb/node-busybox/issues"
+  },
+  "homepage": "https://github.com/anirudhb/node-busybox#readme"
+}
