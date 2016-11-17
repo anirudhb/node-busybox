@@ -1,5 +1,5 @@
 # node-busybox
-# _Busybox written in Node.js_
+_Busybox written in Node.js_
 
 **Warning: Only platform-specific features and (mostly) only coreutils are implemented!**
 
